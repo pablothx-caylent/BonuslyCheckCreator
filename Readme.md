@@ -50,7 +50,7 @@ pip install PyMuPDF
 ```
 
 ### Step 4: JSON Configuration
-Create a `values.json` file in the project directory with the following structure:
+Modify the `values.json` file in the project directory with the following structure:
 
 ```json
 {
